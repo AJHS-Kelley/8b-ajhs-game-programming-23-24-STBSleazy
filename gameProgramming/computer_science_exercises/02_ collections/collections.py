@@ -1,4 +1,4 @@
-# Collections Examples, Terry Tajuan, v0.1c
+# Collections Examples, Terry Tajuan, v0.1d
 
 # LIST -- ORDERED, CHANGEABLE, ALLOWS DUPLICATE VALUES
 breakfastFoods = ["Bacon", "Waffles", "Pancakes", "Cereal", "Milk"]
@@ -23,3 +23,8 @@ classGPA =[3.14, 2,25, 1.74, 1.99, 0.99, 4.25]
 #print(breakfastFoods[-1])
 #print(testScroes[-1])
 #print(classGPA[-1])
+
+# Pause - WYOC --access the 3rd Element is Each List
+#print(breakfastFoods[2])
+#print(testScorces[2])
+#print(classGPA[2])
