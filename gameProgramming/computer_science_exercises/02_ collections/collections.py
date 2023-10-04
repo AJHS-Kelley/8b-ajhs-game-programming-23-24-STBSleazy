@@ -1,4 +1,4 @@
-# Collections Examples, Terry Tajuan, v0.1b
+# Collections Examples, Terry Tajuan, v0.1c
 
 # LIST -- ORDERED, CHANGEABLE, ALLOWS DUPLICATE VALUES
 breakfastFoods = ["Bacon", "Waffles", "Pancakes", "Cereal", "Milk"]
@@ -10,6 +10,16 @@ testScorces = [95, 100, 25, 15, 27, 35]
 classGPA =[3.14, 2,25, 1.74, 1.99, 0.99, 4.25]
 
 # Printing Contents of an list
-print(breakfastFoods)
-print(testScorces)
-print(classGPA)
+#print(breakfastFoods)
+#print(testScorces)
+#print(classGPA)
+
+# Accessing Specific List Elements -- REMEMBER FIRST ELEMENT IS INDEX 0
+#print(breakfastFoods[0])
+#print(testScores[0])
+#print(classGPA[0])
+
+# Accessing Last Element is lists
+#print(breakfastFoods[-1])
+#print(testScroes[-1])
+#print(classGPA[-1])
