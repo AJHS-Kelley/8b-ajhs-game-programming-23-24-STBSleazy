@@ -41,9 +41,26 @@ classGPA =[3.14, 2,25, 1.74, 1.99, 0.99, 4.25]
 #print(classGPA)
 
 # Pause -- WYOC -- Change 5th Element
-breakfastFoods[4] = "Bagel"
-testScorces[4] = 45
-classGPA[4] = 2.45
-print(breakfastFoods)
-print(testScorces)
-print(classGPA)
+#breakfastFoods[4] = "Bagel"
+#classGPA[4] = 2.45
+#print(breakfastFoods)
+#print(testScorces)
+#print(classGPA)
+
+# ADding and Intserting Items to a List
+# .append()adds an item atr the END of a List.
+#breakfastFoods.append("hash brown")
+#print(breakfastFoods)
+#testScores.append(99)
+#print(testScorces)
+#classGPA.append(1.99)
+#print(classGPA)
+
+
+# .insert() allows you to place an item at a specific index in the list.
+#breakfastFoods.insert(3, "Parfait")
+#print(breakfastFoods)
+#testScores.insert(3, 55)
+#print(testScores)
+#classGPA.insert(3, 0.0)
+#print(classGPA)
