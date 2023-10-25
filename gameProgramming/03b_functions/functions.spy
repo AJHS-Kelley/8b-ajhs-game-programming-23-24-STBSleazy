@@ -37,5 +37,7 @@ strenghtPlayer = rollDice(3, 6)
 dexterityPLayer = rollDice(3, 6)
 wisdomPalyer = rollDice(3, 6)
 
-
+print(strenghtPlayer)
+print(dexterityPLayer)
+print(wisdomPalyer)
 
